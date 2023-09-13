@@ -1,4 +1,4 @@
-f# ♠️♥️ Blackjack Game ♦️♣️
+# ♠️♥️ Blackjack Game ♦️♣️
 
 A thrilling game of Blackjack to test your luck and strategy!
 
